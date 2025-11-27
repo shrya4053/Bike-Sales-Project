@@ -12,4 +12,14 @@ To study all the customer details (like age, income, and where they live) to fin
 - Which Occupation group has the highest Purchase Rate?
 - What is the exact Age range that represents the highest number of bike purchases
 
-  ## Dashboard Interaction <a
+  ## Dashboard Interaction
+  <a href= "https://github.com/shrya4053/Bike-Sales-Project/blob/main/Screenshot%202025-11-24%20172809.png">View dashboard</a>
+
+  ## Process
+  - Verified data fro any missing values and anomalities, and sort out the same.
+  - Made sure data is consisted and clean with respect to data type, data format and values used.
+  - Created pivot tables according to the questions asked.
+  - Merged all pivot tables into one dashboard and applied slicer to make it dynamic.
+ 
+  ## Dashboard
+  <img width="969" height="417" alt="Screenshot 2025-11-24 172809" src="https://github.com/user-attachments/assets/d2c6ee94-1f43-434e-8942-5cb7eaaba873" />
