@@ -4,3 +4,12 @@ Analysis of bike buyers to identify key sales predictors. Found that short commu
 To study all the customer details (like age, income, and where they live) to find out exactly what kind of people buy bikes the most. We will use this information to give the store a simple plan for who to target and where to put their ads, so they can sell more bikes and grow the business faster
 ## Dataset Used
 - <a href= "https://github.com/shrya4053/Bike-Sales-Project/blob/main/Bike%20sales%20cleasned.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- Which Commute Distance segment provides the highest Purchase Rate?
+- What is the average Income (in dollars) of customers who purchased a bike compared to those who did not?
+- Which combination of Marital Status and Gender has the highest percentage of bike purchasers?
+- Which Occupation group has the highest Purchase Rate?
+- What is the exact Age range that represents the highest number of bike purchases
+
+  ## Dashboard Interaction <a
