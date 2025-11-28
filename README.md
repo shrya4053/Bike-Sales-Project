@@ -34,4 +34,4 @@ To study all the customer details (like age, income, and where they live) to fin
   - Direct all local advertising to residential areas and office buildings within a 5-mile radius of the store. (Solves the Distance problem).
   - Run promotions that emphasize time savings and avoiding traffic. This appeals to the Adult customer with a good salary.
   - Feature premium, durable commuter bikes and accessories instead of entry-level mountain bikes. SInce the buyer has a higher average salary, confirming they can afford a quality product.
-- Adults are the primary buyers (50.2% Buy Rate). The store should focus its demographic targeting here.
+  - Adults are the primary buyers (50.2% Buy Rate). The store should focus its demographic targeting here.
