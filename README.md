@@ -49,11 +49,10 @@ To study all the customer details (like age, income, and where they live) to fin
 This analysis demonstrates how data-driven insights can help businesses optimize marketing strategies, target the right customer segments, and improve sales conversions, ultimately driving smarter decision-making and growth.
 
 ## Skills Applied
-
-📊 Data Cleaning
-📊 Data Analysis (Excel, Pivot Tables)
-📊 Dashboard Creation
-📊 Business Insight Generation
+- Data Cleaning
+- Data Analysis (Excel, Pivot Tables)
+- Dashboard Creation
+- Business Insight Generation
 
   ## Final Conclusion
   - Direct all local advertising to residential areas and office buildings within a 5-mile radius of the store. (Solves the Distance problem).
