@@ -7,6 +7,12 @@ To study all the customer details (like age, income, and where they live) to fin
 ## Dataset Used
 - <a href= "https://github.com/shrya4053/Bike-Sales-Project/blob/main/Bike%20sales%20cleasned.xlsx">Dataset</a>
 
+## What I worked on
+- Cleaned and validated the dataset (handled missing values & inconsistencies)
+- Used Excel & Pivot Tables to analyze customer behavior
+- Built an interactive dashboard with slicers for dynamic filtering
+- Identified patterns across demographics like age, income, commute distance, and occupation
+
 ## Questions (KPIs)
 - Which Commute Distance segment provides the highest Purchase Rate?
 - What is the average Income (in dollars) of customers who purchased a bike compared to those who did not?
@@ -31,6 +37,23 @@ To study all the customer details (like age, income, and where they live) to fin
     - Adults (not Seniors) are the main group buying bikes (50.2%)
     - People who buy bikes have a higher average salary than those who don't.
     - Customers who own zero cars have the highest buying rate (61.1%).
+
+## Business Recommendations
+- Focus marketing efforts within a 5-mile radius of stores
+- Target working adults with convenience-based messaging (time-saving, traffic avoidance)
+- Promote premium commuter bikes for higher-income customers
+- Design campaigns specifically for low-car ownership segments
+
+## Business Impact
+
+This analysis demonstrates how data-driven insights can help businesses optimize marketing strategies, target the right customer segments, and improve sales conversions, ultimately driving smarter decision-making and growth.
+
+## Skills Applied
+
+📊 Data Cleaning
+📊 Data Analysis (Excel, Pivot Tables)
+📊 Dashboard Creation
+📊 Business Insight Generation
 
   ## Final Conclusion
   - Direct all local advertising to residential areas and office buildings within a 5-mile radius of the store. (Solves the Distance problem).
